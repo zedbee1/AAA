@@ -2,3 +2,4 @@ File1 Commit1 in master
 File1 Commit2 in master
 File1 Commit3 in master
 File1 commit1 in Branch
+File1 commit2 in Branch
