@@ -5,3 +5,4 @@ File1 Commit4 in master
 File1 Commit5 in master
 File1 Commit6 in master
 File1 Commit7 in master
+File1 Commit8 in master
